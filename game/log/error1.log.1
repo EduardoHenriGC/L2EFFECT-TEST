@@ -1,0 +1,21 @@
+dez. 21, 2023 10:26:28 PM org.l2jmobius.gameserver.GameServer <init>
+ADVERTÊNCIA: GameServer: Failed to execute script list!
+java.lang.RuntimeException: 
+----------------
+File diagnostics
+----------------
+
+-----------------------
+Compilation diagnostics
+-----------------------
+	ERROR: C:\Users\eduar\Downloads\MobiusDev-l2j_mobius-1204ad8e004a\MobiusDev-l2j_mobius-1204ad8e004a\build\L2J_Mobius_Essence_6.3_Crusader\game\data\scripts\instances\GolbergRoom\GolbergRoom.java, Line 69, Column 62
+		code: compiler.err.cant.resolve.location
+		message: cannot find symbol
+  symbol:   variable party
+  location: class instances.GolbergRoom.GolbergRoom
+
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:171)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:181)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:431)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:566)
+

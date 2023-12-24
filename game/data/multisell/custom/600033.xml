@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<production id="93291" count="1" enchantmentLevel="5"/> <!-- Zaken's Blood Sword (Sealed) -->
+	</item>
+	<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<production id="93292" count="1" enchantmentLevel="5"/> <!-- Core's Plasmic Bow (Sealed) -->
+	</item>
+
+<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<production id="93293" count="1" enchantmentLevel="5"/> <!-- Orfen's Venom Sword (Sealed) -->
+	
+	</item>
+	<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<production id="93294" count="1" enchantmentLevel="5"/> <!-- Baium's Thunder Breaker (Sealed) -->
+	</item>
+	<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<ingredient id="91663" count="1" />
+		<production id="93295" count="1" enchantmentLevel="5"/> <!-- Queen Ant's Stone Breaker (Sealed) -->
+	</item>
+	<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<ingredient id="91663" count="1" />
+		<production id="95422" count="1" enchantmentLevel="5"/> <!-- Anakim's Divine Pistols (Sealed) -->
+	</item>
+	<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<ingredient id="91663" count="1" />
+		<production id="96269" count="1" enchantmentLevel="5" /> <!-- Beleth' Soul Eater (Sealed) -->
+</item>
+	
+	
+<item>
+       <ingredient id="57" count="1" /> 
+		<production id="95725" count="1" enchantmentLevel="5"/> <!-- Frost Lord's Sword -->
+		 </item>
+	<item>
+	<ingredient id="57" count="1" /> <production id="95726" count="1" enchantmentLevel="5"/>
+	</item><!-- Frost Lord's Two-Handed Sword --> 
+	<item>
+	<ingredient id="57" count="1" /> <production id="95727" count="1" enchantmentLevel="5"/> 
+	</item><!-- Frost Lord's Axe -->
+	<item>
+	<ingredient id="57" count="1" /> <production id="95728" count="1" enchantmentLevel="5"/>
+	</item> <!-- Frost Lord's Dagger -->
+	<item>
+	<ingredient id="57" count="1" /> <production id="95729" count="1" enchantmentLevel="5"/>
+	 </item><!-- Frost Lord's Spear -->
+	<item>
+	<ingredient id="57" count="1" /> <production id="95730" count="1" enchantmentLevel="5"/> 
+	</item><!-- Frost Lord's Bow -->
+	<item>
+	<ingredient id="57" count="1" /> <production id="95731" count="1" enchantmentLevel="5"/> 
+	</item><!-- Frost Lord's Blade Fists -->
+	<item>
+	<ingredient id="57" count="1" /> <production id="95732" count="1" enchantmentLevel="5"/> 
+	</item><!-- Frost Lord's Magic Blunt Weapon -->
+	<item>
+	<ingredient id="57" count="1" /> <production id="95733" count="1" enchantmentLevel="5"/>
+	</item> <!-- Frost Lord's Staff -->
+	<item>
+	<ingredient id="57" count="1" /> 
+	<production id="95734" count="1" enchantmentLevel="5"/> 
+	</item><!-- Frost Lord's Ancient Sword -->
+	<item>
+	<ingredient id="57" count="1" /> 
+	<production id="95735" count="1" enchantmentLevel="5"/>
+	</item> <!-- Frost Lord's Rapier -->
+	<item>
+	<ingredient id="57" count="1" /> 
+	<production id="95736" count="1" enchantmentLevel="5"/>
+	</item> <!-- Frost Lord's Pistols -->
+	<item>
+	<ingredient id="57" count="1" />
+	 <production id="95737" count="1" enchantmentLevel="5"/>
+	 </item> <!-- Frost Lord's Dual Swords -->
+	<item>
+	<ingredient id="57" count="1" /> 
+	<production id="97301" count="1" enchantmentLevel="5"/>
+	</item> <!-- Gorde's Flame Spear -->
+	<item>
+	<ingredient id="57" count="1" /> 
+	<production id="97956" count="1" enchantmentLevel="5"/>
+	</item> <!-- Galaxia's Ancient Sword -->
+	<item>
+	<ingredient id="57" count="1" /> 
+	<production id="97958" count="1" enchantmentLevel="5"/>
+	</item> <!-- Phiriel's Rapier -->
+    <item>
+	<ingredient id="57" count="1" /> 
+	<production id="97960" count="1" enchantmentLevel="5"/> 
+	</item><!-- Anais' Fists -->
+	<item>
+	<ingredient id="57" count="1" /> 
+	<production id="97962" count="1" enchantmentLevel="5"/>
+	 </item><!-- Juriel's Dual Swords -->
+
+
+</list>
+
+
+
+
+	
+
+
+

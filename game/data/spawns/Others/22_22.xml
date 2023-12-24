@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="22_22">
+		<group>
+			<npc id="34304" x="83876" y="149105" z="-3396" heading="32233" respawnTime="60sec" /> <!-- Dream Priestess - Dream Dungeon Manager -->
+			<npc id="34258" x="83882" y="149003" z="-3400" heading="33154" respawnTime="60sec" /> <!-- Parme - Command Channel Dungeon Manager -->
+			<npc id="34169" x="83616" y="149171" z="-3408" heading="48500" respawnTime="60sec" /> <!-- Koldrut Jay - Clan Dungeon Manager -->
+			<npc id="34119" x="82769" y="147484" z="-3472" heading="16383" respawnTime="60sec" /> <!-- Stone - Collector -->
+			<npc id="34091" x="83872" y="148186" z="-3397" heading="33649" respawnTime="60sec" /> <!-- Sora - Shipping Agent -->
+			<npc id="34185" x="83490" y="149166" z="-3406" heading="49952" respawnTime="60sec" /> <!-- Jio - Ant Nest's Researcher -->
+			<npc id="900105" x="82839" y="147846" z="-3472" heading="16651" respawnTime="60sec" /> <!-- GM-SHOP - L2 EFFECT -->
+		</group>
+	</spawn>
+</list>
